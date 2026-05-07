@@ -7,4 +7,4 @@ Error:  For more information about the errors and possible solutions, please rea
 Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
 Error: Process completed with exit code 1.
 
-thiếu checkout code trong file ci.yml, dẫn đến lỗi khi chạy maven vì không tìm thấy pom.xml. Cần thêm bước checkout code trước khi thiết lập JDK và chạy maven.
+thiếu checkout code trong file ci.yml, dẫn đến lỗi khi chạy maven vì không tìm thấy pom.xml. Cần thêm bước checkout code trước khi thiết lập JDK và chạy maven. 

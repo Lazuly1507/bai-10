@@ -24,3 +24,7 @@ Error: Process completed with exit code 1.
 
 Lỗi này xảy ra do Maven không thể tìm thấy artifact ch.qos.logback:logback-classic:jar:9.9.9 trong repository trung tâm của Maven. 
 do phiên bản 9.9.9 của logback-classic không tồn tại
+
+
+không thấy log của test
+

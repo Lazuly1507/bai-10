@@ -1,0 +1,9 @@
+Error:  The goal you specified requires a project to execute but there is no POM in this directory (/home/runner/work/bai-10/bai-10). Please verify you invoked Maven from the correct directory. -> [Help 1]
+Error:  
+Error:  To see the full stack trace of the errors, re-run Maven with the -e switch.
+Error:  Re-run Maven using the -X switch to enable full debug logging.
+Error:  
+Error:  For more information about the errors and possible solutions, please read the following articles:
+Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
+Error: Process completed with exit code 1.
+
